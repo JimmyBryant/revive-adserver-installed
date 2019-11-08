@@ -1,0 +1,8 @@
+/var/*.log
+/var/*.log.rollback
+/var/*.xml
+/var/cache/*.html
+/var/cache/*.php
+/var/cache/*.meta
+/var/cache/cache_*
+/var/cache/minify_*
