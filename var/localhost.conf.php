@@ -84,7 +84,7 @@ xmlrest="ax.php"
 
 [store]
 mode=0
-webDir="/data/www/images"
+webDir="/data/www/www/images"
 ftpHost=
 ftpPath=
 ftpUsername=
